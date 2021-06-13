@@ -14,7 +14,7 @@ var bg = "Sprites/bg.jpg";
 
 function preload() {
   getBackgroundImg();
-  backgroundImg = loadImage("Sprites/bg.jpg");
+
 }
 
 function setup() {
